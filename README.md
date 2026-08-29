@@ -1,6 +1,6 @@
 # STEP_SEMESTER_3
 
-Problem-solving practice for **STEP – Semester 3**.
+DSA problem-solving practice for **STEP – Semester 3**.
 
 ## 📅 Daily Progress
 ----------------------------------------
@@ -12,4 +12,6 @@ Problem-solving practice for **STEP – Semester 3**.
 3. **Contains Duplicate**
 4. **Merge Two Sorted Arrays**
 5. **Rotate Array**
-   -------------------------------------
+
+----------------------------------------
+
